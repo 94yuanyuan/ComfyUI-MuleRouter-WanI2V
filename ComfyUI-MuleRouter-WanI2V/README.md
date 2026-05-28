@@ -50,6 +50,12 @@ A custom node specifically written for the wan2.7-i2v-spicy API, designed for us
 
   * `Recover_Task`: 找回並下載之前的任務（必須在 `force_task_id` 填入欲找回的 Task ID）。
 
+## 🔗 參考工作流 (Example Workflow)
+
+如果你不知道如何開始連接節點，可以直接下載並參考我準備的基礎工作流：
+
+👉 點此下載基礎工作流 [MuleRouter I2V (Wan2.7).json](https://github.com/94yuanyuan/ComfyUI-MuleRouter-WanI2V/blob/main/MuleRouter%20I2V%20(Wan2.7).json)
+
 ## 🛠️ 安裝方法與路徑 (Installation)
 
 請確保將本專案的檔案放置於 ComfyUI 的 `custom_nodes` 資料夾中。正確的擺放路徑結構如下：
@@ -61,3 +67,7 @@ A custom node specifically written for the wan2.7-i2v-spicy API, designed for us
 │       ├── 📄 __init__.py
 │       ├── 📄 nodes.py
 │       └── 📄 README.md
+└── 📂 user/
+    └── 📂 default/
+        └── 📂 workflows/
+            └── 📄 MuleRouter I2V (Wan2.7)
