@@ -54,7 +54,7 @@ A custom node specifically written for the wan2.7-i2v-spicy API, designed for us
 
 如果你不知道如何開始連接節點，可以直接下載並參考我準備的基礎工作流：
 
-👉 點此下載基礎工作流 [MuleRouter I2V (Wan2.7).json](https://github.com/94yuanyuan/ComfyUI-MuleRouter-WanI2V/blob/main/MuleRouter%20I2V%20(Wan2.7).json)
+👉 點此下載基礎工作流 [MuleRouter I2V (Wan2.7).png](https://github.com/94yuanyuan/ComfyUI-MuleRouter-WanI2V/blob/main/MuleRouter%20I2V%20(Wan2.7).png)
 
 ## 🛠️ 安裝方法與路徑 (Installation)
 
